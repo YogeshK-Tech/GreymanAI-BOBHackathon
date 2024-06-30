@@ -33,21 +33,21 @@ Our proposed solutions for the hackathon are as follows:
 - **Frontend:** React.js, HTML, CSS, JavaScript
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
-- **AI/ML:** Python, TensorFlow, scikit-learn
-- **Cloud Services:** AWS, Google Cloud Platform
+- **AI/ML:** Python, TensorFlow, scikit-learn, and other GenAI frameworks
+- **Cloud Services:** Microsoft Azure
 
 ### Team Members
 
-- **[Your Name]** - Project Lead
-- **[Team Member 1]** - Backend Developer
-- **[Team Member 2]** - Frontend Developer
-- **[Team Member 3]** - Data Scientist
-- **[Team Member 4]** - UX/UI Designer
+- Project Lead:- Yogesh Kumar
+
+### Prototype of Customer support assistant
+
+I have developed this bot to demonstrate how the support bot will look and work initially, please check this out https://mediafiles.botpress.cloud/7047475f-1179-4f92-b8db-32bfeeda0b1e/webchat/bot.html
 
 ### Contact
 
-For more information, please contact us at [your email address].
+For more information, please contact us at yogeshk.contact@gmail.com.
 
 ---
 
-We are excited to participate in the hackathon and showcase our innovative solutions. We believe that the Greyman Project has the potential to make a significant impact in [insert specific industry or area], and we look forward to collaborating with other talented teams.
+We are excited to participate in the hackathon and showcase our innovative solutions. We believe that the Greyman AI has the potential to make a significant impact in banking and all sectors, and we look forward to collaborating with other talented teams.
